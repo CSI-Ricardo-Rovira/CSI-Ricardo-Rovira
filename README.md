@@ -7,3 +7,4 @@
 * Playing volleyball
 * Watching TV 
 * Going out 
+<img width="485" alt="Volleyball" src="https://user-images.githubusercontent.com/93545943/139724061-6ab80559-9381-4b08-b910-382f5f8a5ee5.png">
