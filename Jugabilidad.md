@@ -6,7 +6,7 @@
 #### Background es el escenario del juego, donde la acción occurre. En mi juego es el cielo y la tierra, tambien incluye las nubes y cuando estas en una mina los bloques que te rodean. 
 
 ### Sonido 
-#### El sonido es lo que afecta al jugador a sentirse que esta en el juego. Esto lo imersa en el juego y lo hace mas atento. En minecraft hay sonidos de background y de las acciones como cuando  
+#### El sonido es lo que afecta al jugador a sentirse que esta en el juego. Esto lo imersa en el juego y lo hace mas atento. En Minecraft hay sonidos de background y de las acciones como cuando  
 
 ### Gráficas 
 #### Las gráficas pueden ser 2d o 3d, top-view etc. Puede incluir que sean de buena calidad, dibujado.  
@@ -14,7 +14,7 @@
 
 ## Mecánica 
 ### La mecánica es las acciones hechas en el juego. 
-###
+### En Minecraft la mecánica puede inlcluir correr, brincar, nadar, 
 
 ## Personajes 
 ### Los personajes 
