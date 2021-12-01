@@ -17,6 +17,10 @@
           width="20%"
           length="20%" />
     <li>1/2 lb de mantequilla</li>
+    <img  src=https://simplementerecetas.com/wp-content/uploads/2021/01/Como-sustituir-la-mantequilla-por-el-aceite.jpg
+          title="Mantequilla"
+          width="20%"
+          length="20%" /> 
     <li>8 huevos</li>
     <li>8 cucharaditas de azucar</li>
 </ul>
