@@ -11,9 +11,10 @@
 (add images of ingredients) (delete this) 
 
 <u1>
-    <li>Example</li>
-    <li>Example</li>
-    <li>Example</li>
+    <li>2 Semi-sweet chocolate packets</li>
+    <li>1/2 lb of butter</li>
+    <li>8 eggs</li>
+    <li>8 teaspoons of sugar</li>
 </ul>
 
 
