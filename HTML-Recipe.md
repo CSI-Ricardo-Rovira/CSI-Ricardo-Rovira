@@ -22,6 +22,10 @@
           width="20%"
           length="20%" /> 
     <li>8 huevos</li>
+    <img  src=https://avicultura.com/wp-content/uploads/2015/10/huevos-12-razones-para-comer-huevos-1.jpg
+          title="Huevos"
+          width="20%"
+          length="20%" /> 
     <li>8 cucharaditas de azucar</li>
 </ul>
 
