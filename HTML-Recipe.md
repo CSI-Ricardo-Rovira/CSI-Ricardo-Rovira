@@ -26,7 +26,11 @@
           title="Huevos"
           width="20%"
           length="20%" /> 
-    <li>8 cucharaditas de azucar</li>
+    <li>8 cucharaditas de azúcar</li>
+    <img  src=https://fotos02.noticiasdenavarra.com/2020/01/31/690x278/seis-cucharaditas.jpg
+          title="Cucharaditas de Azúcar"
+          width="20%"
+          length="20%" /> 
 </ul>
 
 
