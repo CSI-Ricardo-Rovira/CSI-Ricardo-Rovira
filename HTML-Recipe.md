@@ -11,7 +11,11 @@
 (add images of ingredients) (delete this) 
 
 <u1>
-    <li>2 paquetes de chocolate semi-sweet</li>
+    <li>2 paquetes de chocolate semi-sweet</li> 
+    <img  src=https://m.media-amazon.com/images/I/418WaWgJZwL.jpg
+          title="Semi-sweet Packets" 
+          width="20%"
+          length="20%" />
     <li>1/2 lb de mantequilla</li>
     <li>8 huevos</li>
     <li>8 cucharaditas de azucar</li>
