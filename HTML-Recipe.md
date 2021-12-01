@@ -1,29 +1,32 @@
-<h1> Mousse Recipe </h1> 
-<h2> Christmas Recipe: Mousse </h2> 
+<h1> Mousse de Chocolate </h1> 
+<h2> Receta de Navidad: Mousse </h2> 
 
 <img  src=https://www.onceuponachef.com/images/2019/04/Chocolate-Mousse-760x950.jpg
       title="Mousse Chocolate"
       width="20%"
       length="20%" />
       
-<h3> Ingredients: </h3> 
+<h3> Ingredientes: </h3> 
 
 (add images of ingredients) (delete this) 
 
 <u1>
-    <li>2 Semi-sweet chocolate packets</li>
-    <li>1/2 lb of butter</li>
-    <li>8 eggs</li>
-    <li>8 teaspoons of sugar</li>
+    <li>2 paquetes de chocolate semi-sweet</li>
+    <li>1/2 lb de mantequilla</li>
+    <li>8 huevos</li>
+    <li>8 cucharaditas de azucar</li>
 </ul>
 
 
-<h3> steps: </h3>
+<h3> Pasos: </h3>
 
 <ol>
-  <li>Mix</li>
-  <li>Heat at 350</li>
-  <li>Let cool</li>
+  <li>Se bate mantequilla y se le echa las yemas una a una</li>
+  <li>Se derrite el chocolate al "baño de Maria". Se deja que se refresque</li>
+  <li>Se une la mezcla de la mantequilla y huevos con el chocolate</li>
+  <li>Se baten las claras y se le añade el azucar</li> 
+  <li>Se une todo con movimiento envolvente</li>
+  <li>Se congela</li>
 </ol>
 
       
