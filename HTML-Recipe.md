@@ -8,8 +8,6 @@
       
 <h3> Ingredientes: </h3> 
 
-(add images of ingredients) (delete this) 
-
 <u1>
     <li>2 paquetes de chocolate semi-sweet</li> 
     <img  src=https://m.media-amazon.com/images/I/418WaWgJZwL.jpg
