@@ -1,7 +1,7 @@
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Luka Dončić </b></h1>
 
 <div align="center">
-    <img    src="https://hoopshype.com/wp-content/uploads/sites/92/2020/08/luka-doncic.jpg "
+    <img    src="https://i0.wp.com/www.nbaanalysis.net/wp-content/uploads/2021/11/Luka-Doncic-Makes-Major-Impact-vs-Clippers-In-Return-For-Mavs.jpeg?resize=678%2C381&ssl=1"
             title="Luka Dončić"
             width="20%"
             height="20%" 
@@ -19,47 +19,50 @@
 <br>
 
 <div align="center">
-    <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
-            title="Pestily"
-            width="50%"
-            height="50%" 
+    <img    src="https://hoopshype.com/wp-content/uploads/sites/92/2020/08/luka-doncic.jpg"
+            title="GW vs. Clippers "
+            width="20%"
+            height="20%" 
             />
 </div>
+
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:100%">
+    This photo shows the buzzerbeater he hit agains the Clippers. This shot evened the 1st round series (2-2). The Mavericks had just completed a 17-point comeback after their second-best player left the game with an injury. This shot was the last sign of the bright future his career has. 
 
 <br>
 
 
 <table>
     <tr>
-        <th>Name</th>
-        <td>Paul</td>
+        <th></th>
+        <td></td>
     </tr>
     <tr>
-        <th>Age</th>
-        <td>34</td>
+        <th></th>
+        <td></td>
     </tr>
     <tr>
-        <th>Birthday</th>
-        <td>7th November</td>
+        <th></th>
+        <td></td>
     </tr>
         <tr>
-        <th>Nationality</th>
-        <td>Australian</td>
+        <th></th>
+        <td></td>
     </tr>
     <tr>
-        <th>Instagram</th>
-        <td>@thisispestily</td>
+        <th></th>
+        <td></td>
     </tr>
     <tr>
-        <th>Twitter</th>
-        <td>@pestily</td>
+        <th></th>
+        <td></td>
     </tr>
     <tr>
-        <th>Youtube</th>
-        <td>@pestily</td>
+        <th></th>
+        <td></td>
     </tr>
     <tr>
-        <th>Twitch</th>
+        <th></th>
         <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
     </tr>
 </table>
@@ -68,5 +71,5 @@
 <br><br>
 
 <p>
-    <i>Made by: <u>Carlos Jose Cobian</u> on December 2, 2021</i>
+    <i></i>
 </p>
