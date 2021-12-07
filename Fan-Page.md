@@ -18,6 +18,8 @@
 
 <br>
 
+<h3 align="center" > Rookie of the Year</h3>
+
 <div align="center">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_4UiqvOTcgB17IxclZqP9THO6tYnzLtTpw&usqp=CAU"
          title="Luka wins Rookie of the Year"
@@ -29,6 +31,8 @@
 <p style = "text- indent: 2cm: font-family: Comic Sans MS; font-size:100%">
     Luka won the Kia NBA Rookie of the Year in the 2018-2019 season. This was the second time a european player won the Rookie of the Year after Pau Gasol. He received 98 out of the 100 possible first-place votes. He also received 2 second-place votes.
 </p>
+
+<h3 align="center" > Playoff Buzzerbeater</h3>
 
 <div align="center">
     <img    src="https://hoopshype.com/wp-content/uploads/sites/92/2020/08/luka-doncic.jpg"
@@ -70,29 +74,38 @@
         <td>Dallas Mavericks</td>
     </tr>
         <tr>
-        <th></th>
-        <td></td>
+        <th>Height</th>
+        <td>6ft. 7in.</td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
+        <th>Weight</th>
+        <td>230 pounds</td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
+        <th>Points per Game</th>
+        <td>26 ppg</td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
+        <th>Assista per Game</th>
+        <td>8</td>
     </tr>
     <tr>
+        <th>Rebounds per Game</th>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>All-Star Teams</th>
+        <td>2</td> 
+    <tr>
         <th></th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <td><a href=""> @ </a></td>
     </tr>
 </table>
 
 
 <br><br>
+
+<h3 align="center" > 
 
 <p>
     <i></i>
