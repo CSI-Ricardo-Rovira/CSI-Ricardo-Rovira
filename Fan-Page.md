@@ -41,7 +41,8 @@
 </div>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:100%">
-    In the 2019-2020 season he made the Western Conference's All-Star Team. Luka became the youngest european to be in an All-Star Game. 
+    In the 2019-2020 season he made the Western Conference's All-Star Team. Luka became the youngest european to be in an All-Star Game. This was also the season he made the First Team All-NBA. The Mavericks ended the season with the 7th seed in the Western Conference and lost in the first round vs. the Clippers. 
+</p>
 
 <table>
     <tr>
