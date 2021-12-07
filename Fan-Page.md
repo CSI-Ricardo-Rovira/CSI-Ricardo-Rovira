@@ -19,6 +19,18 @@
 <br>
 
 <div align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_4UiqvOTcgB17IxclZqP9THO6tYnzLtTpw&usqp=CAU"
+         title="Luka wins Rookie of the Year"
+         width="20%"
+         height="20%"
+         />
+</div>
+
+<p style = "text- indent: 2cm: font-family: Comic Sans MS; font-size:100%">
+    Luka won the Kia NBA Rookie of the Year in the 2018-2019 season. This was the second time a european player won the Rookie of the Year after Pau Gasol. He received 98 out of the 100 possible first-place votes. He also received 2 second-place votes.
+</p>
+
+<div align="center">
     <img    src="https://hoopshype.com/wp-content/uploads/sites/92/2020/08/luka-doncic.jpg"
             title="GW vs. Clippers "
             width="20%"
@@ -27,7 +39,7 @@
 </div>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:100%">
-    This photo shows the buzzerbeater he hit agains the Clippers. This shot evened the 1st round series (2-2). The Mavericks had just completed a 17-point comeback after their second-best player left the game with an injury. This shot was the last sign of the bright future his career has. 
+    This photo shows the buzzerbeater he hit agains the Clippers. This shot evened the 1st round series (2-2). The Mavericks had just completed a huge comeback after their second-best player left the game with an injury. This shot was the sign of the bright future his career has. 
 </p>
 
 <br>
@@ -54,8 +66,8 @@
         <td>Slovenian</td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
+        <th>Team</th>
+        <td>Dallas Mavericks</td>
     </tr>
         <tr>
         <th></th>
