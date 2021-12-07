@@ -10,13 +10,13 @@
 
 <h2 align="center" > NBA Fan Page!</h2>
 
-<br>
+<br><br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:100%">
     Luka Dončić is a europen basketball player. He currently plays for the Dallas Mavericks in the NBA. He was drafted in 2018 and has played in the NBA for four seasons. He was born in Slovenia and played in the professional basketball league in Europe since he was 16. 
 </p>
 
-<br>
+<br><br> 
 
 <h3 align="center" > Rookie of the Year</h3>
 
@@ -32,6 +32,8 @@
     Luka won the Kia NBA Rookie of the Year in the 2018-2019 season. This was the second time a european player won the Rookie of the Year after Pau Gasol. He received 98 out of the 100 possible first-place votes. He also received 2 second-place votes.
 </p>
 
+<br><br> 
+
 <h3 align="center" > Playoff Buzzerbeater</h3>
 
 <div align="center">
@@ -46,7 +48,7 @@
     This photo shows the buzzerbeater he hit agains the Clippers. This shot evened the 1st round series (2-2). The Mavericks had just completed a huge comeback after their second-best player left the game with an injury. This shot was the sign of the bright future his career has. 
 </p>
 
-<br>
+<br><br>
 
 <div align="center"> 
     <img   src="https://www.si.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTc5Mzc1MTYyODYzMzk2MTcz/232eaa34-59f3-4303-a544-057d2b705b37.jpg" 
@@ -59,6 +61,8 @@
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:100%">
     In the 2019-2020 season he made the Western Conference's All-Star Team. Luka became the youngest european to be in an All-Star Game. This was also the season he made the First Team All-NBA. The Mavericks ended the season with the 7th seed in the Western Conference and lost in the first round vs. the Clippers. 
 </p>
+
+<br><br>
 
 <table>
     <tr>
@@ -97,16 +101,16 @@
         <th>All-Star Teams</th>
         <td>2</td> 
     <tr>
-        <th></th>
-        <td><a href=""> @ </a></td>
+        <th>All-NBA First Teams </th>
+        <td>2</td>
     </tr>
 </table>
 
 
-<br><br>
+<br><br> 
 
-<h3 align="center" > 
+<h3 align="center" > Rookie Season Highlights</h3> 
+<a href="https://www.youtube.com/watch?v=L4hlqUoLt9k">Highlights</a> 
 
-<p>
-    <i></i>
-</p>
+<h3 align="center" > Playoff Buzzerbeater </h3> 
+<a href="https://www.youtube.com/watch?v=ZrofDLjBFLE">Buzzerbeater vs. Clippers</a> 
